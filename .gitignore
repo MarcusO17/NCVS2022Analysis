@@ -159,3 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 .data/
+NCVS_Select_-_Personal_Population.csv
+NCVS_Select_-_Personal_Victimization.csv
